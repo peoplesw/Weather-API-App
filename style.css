@@ -1,0 +1,20 @@
+/* Hero image */
+body {
+    background-image: url('sky2.webp'); 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    height: 775px;
+}
+
+
+#city-input, #weather-output {
+    max-width: 400px;
+    margin: 0 auto;
+}
+  
+.banner {
+    color: #FFD23F;
+    font-family: sans-serif;
+}
